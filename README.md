@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Daniel Miranda</h1>
+<h1 align="center"> Daniel Miranda</h1>
 <p align="center"><b>Digital Identity Administrator | Data Analytics | Machine Learning | Identity Security</b></p>
 
 ---
