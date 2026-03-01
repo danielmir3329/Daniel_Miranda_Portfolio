@@ -17,6 +17,11 @@
 - Data Analyst AI Agent
   https://github.com/danielmir3329/Data-Analyst-AI-Agent
 ---
+## 🔬 Research  
+- Comprehensive EDA on U.S. Bankruptcy Risk Indicators  
+[Comprehensive EDA on U.S. Bankruptcy Risk Indicators .pdf](https://github.com/user-attachments/files/25657970/Comprehensive.EDA.on.U.S.Bankruptcy.Risk.Indicators.pdf)
+
+---
 ## 🛠 Technical Skills
 
 ### 🔹 Programming & Analytics
