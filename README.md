@@ -5,8 +5,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Master’s degree in Data Analytics  
 - 🎓 **Currently pursuing a PhD in Data Science**  
+- 🎓 Master’s degree in Data Analytics  
 - 💼 Digital Identity Administrator  
 - 🏦 Experience in financial services & digital banking environments  
 - 🧠 Focused on authentication risk modeling, anomaly detection, and digital containment strategy  
