@@ -13,20 +13,20 @@
 - 📊 Builder of structured, reproducible analytics systems  
 
 ---
-## 📂 Python Projects  
-- Data Analyst AI Agent
+## Python Projects  
+📂 Data Analyst AI Agent
   https://github.com/danielmir3329/Data-Analyst-AI-Agent
-- Advanced Fraud Modeling
+📂 Advanced Fraud Modeling
   [https://github.com/danielmir3329/Advanced-Fraud-Modeling](https://github.com/danielmir3329/Advanced-Fraud-Modeling-Project)
-- Housing Price Prediction / Linear Regression https://github.com/danielmir3329/Housing-Price-Prediction-Using-Linear-Regression/tree/main
+📂 Housing Price Prediction / Linear Regression https://github.com/danielmir3329/Housing-Price-Prediction-Using-Linear-Regression/tree/main
 
 ---
-## 📂 R Projects  
-- Corporate Bankruptcy Analysis and Clustering Using R https://github.com/danielmir3329/Corporate-Bankruptcy-Analysis-and-Clustering-Using-R
+## R Projects  
+📂 Corporate Bankruptcy Analysis and Clustering Using R https://github.com/danielmir3329/Corporate-Bankruptcy-Analysis-and-Clustering-Using-R
   
 ---
-## 🔬 Research  
-- Comprehensive EDA on U.S. Bankruptcy Risk Indicators  [Comprehensive EDA on U.S. Bankruptcy Risk Indicators .pdf](https://github.com/user-attachments/files/25657970/Comprehensive.EDA.on.U.S.Bankruptcy.Risk.Indicators.pdf)
+## Research  
+🔬  Comprehensive EDA on U.S. Bankruptcy Risk Indicators  [Comprehensive EDA on U.S. Bankruptcy Risk Indicators .pdf](https://github.com/user-attachments/files/25657970/Comprehensive.EDA.on.U.S.Bankruptcy.Risk.Indicators.pdf)
 
 ---
 ## 🛠 Technical Skills
@@ -87,3 +87,6 @@ As a PhD candidate in Data Science, my interests include:
 
 ## 📬 Let’s Connect
 https://www.linkedin.com/in/danielmr0909/
+
+## 💼 Personal Portfolio with Other Projects 
+https://moored-curtain-1a4.notion.site/Portfolio-DANIEL-MIRANDA-1d4f67b9be158020a13ad644e5902e62?pvs=74
