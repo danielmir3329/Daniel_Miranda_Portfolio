@@ -1,5 +1,5 @@
 <h1 align="center"> Daniel Miranda</h1>
-<p align="center"><b> Risk Analytics | Applied Machine Learning | Fraud Modeling | Identity & Access Management (IAM) | Digital Identity Administrator </b></p>
+<p align="center"><b> Risk Analytics | Applied Machine Learning | Fraud Modeling | Identity & Access Management (IAM) | Digital Identity Administrator  </b></p>
 
 ---
 
