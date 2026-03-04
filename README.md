@@ -31,7 +31,7 @@
 - 🌍 Smart City Companion – AI Daily Assistant https://daily-city-assitant.lovable.app
 - 🧠 Data Discovery Lab – Visual Insights Platform https://discover-joyful-data.lovable.app/
 - 📊 AI EDA Assistant – AI Dashboard https://auth-log-eda.lovable.app/
-
+- 🌐 What If Index – Predictive Scenario Analytics www.whatifindex.com
 ---
 ## 🛠 Technical Skills
 
