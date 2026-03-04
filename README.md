@@ -22,7 +22,7 @@
 
 ---
 ## 📂 R Projects  
-
+- Corporate Bankruptcy Analysis and Clustering Using R https://github.com/danielmir3329/Corporate-Bankruptcy-Analysis-and-Clustering-Using-R
   
 ---
 ## 🔬 Research  
