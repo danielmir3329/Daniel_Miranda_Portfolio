@@ -26,6 +26,11 @@
 ---
 ## 🔬 Research  
 - Comprehensive EDA on U.S. Bankruptcy Risk Indicators  [Comprehensive EDA on U.S. Bankruptcy Risk Indicators .pdf](https://github.com/user-attachments/files/25657970/Comprehensive.EDA.on.U.S.Bankruptcy.Risk.Indicators.pdf)
+---
+## AI Product Prototypes
+- 🌍 Smart City Companion – AI Daily Assistant https://daily-city-assitant.lovable.app
+- 🧠 Data Discovery Lab – Visual Insights Platform https://discover-joyful-data.lovable.app/
+- 📊 AI EDA Assistant – AI Dashboard https://auth-log-eda.lovable.app/
 
 ---
 ## 🛠 Technical Skills
