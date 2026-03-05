@@ -33,7 +33,7 @@
 - 🧠 Data Discovery Lab – Visual Insights Platform https://discover-joyful-data.lovable.app/
 - 📊 AI EDA Assistant – AI Dashboard https://auth-log-eda.lovable.app/
 - 🌐 What If Index – Predictive Scenario Analytics www.whatifindex.com
-- 📊 Machine Learning for Stock Market Signals and recommendations https://app.base44.com/apps/69a92720eab51730c9986a05/editor/preview
+- 📊 Machine Learning for Stock Market Signals https://app.base44.com/apps/69a92720eab51730c9986a05/editor/preview
 ---
 ## 🛠 Technical Skills
 
