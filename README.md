@@ -17,6 +17,7 @@
   https://github.com/danielmir3329/Data-Analyst-AI-Agent
 - Advanced Fraud Modeling
   [https://github.com/danielmir3329/Advanced-Fraud-Modeling](https://github.com/danielmir3329/Advanced-Fraud-Modeling-Project)
+- Fraud Detection Model (ML + Streamlit) https://github.com/danielmir3329/Fraud-Detection-/tree/main
 - Housing Price Prediction / Linear Regression https://github.com/danielmir3329/Housing-Price-Prediction-Using-Linear-Regression/tree/main
 
 ---
