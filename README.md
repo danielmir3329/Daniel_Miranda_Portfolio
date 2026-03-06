@@ -12,7 +12,7 @@
 - 📊 Builder of structured, reproducible analytics systems  
 
 ---
-## 📂 Python Projects  
+## 📂 Python Projects 
 - Data Analyst AI Agent
   https://github.com/danielmir3329/Data-Analyst-AI-Agent
 - Intelligent Transaction Risk Detection Using Machine Learning
@@ -20,7 +20,7 @@
 - Fraud Detection Model (ML + Streamlit) https://github.com/danielmir3329/Fraud-Detection-/tree/main
 - Housing Price Prediction / Linear Regression https://github.com/danielmir3329/Housing-Price-Prediction-Using-Linear-Regression/tree/main
 - Transforming a RAG pipeline into an AI Agent https://github.com/danielmir3329/Transforming-a-RAG-pipeline-into-an-AI-Agent
-
+- Designing a Universal LLM Agent Loop with Tool Integration 
 ---
 ## 📂 R Projects  
 - Corporate Bankruptcy Analysis and Clustering Using R https://github.com/danielmir3329/Corporate-Bankruptcy-Analysis-and-Clustering-Using-R
