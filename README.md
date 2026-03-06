@@ -34,7 +34,7 @@
 ## AI Applications & Intelligent Platforms
 
 | Project | Tech Stack | Live App |
-|--------|------------|----------|
+|--------|------------|------------|
 | **🌍 Smart City Companion – AI Daily Assistant** | AI Agents, Location Intelligence, Real-Time Data APIs, Recommendation Systems | https://daily-city-assitant.lovable.app |
 | **🧠 Data Discovery Lab – Visual Insights Platform** | Data Visualization, Interactive Analytics, AI Insights, Dashboard Design | https://discover-joyful-data.lovable.app/ |
 | **📊 AI EDA Assistant – AI Dashboard** | Exploratory Data Analysis, AI-Assisted Analytics, Visualization, Data Profiling | https://auth-log-eda.lovable.app/ |
