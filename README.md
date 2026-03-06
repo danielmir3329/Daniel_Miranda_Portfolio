@@ -40,6 +40,7 @@
 | **📊 AI EDA Assistant – AI Dashboard** | Exploratory Data Analysis, AI-Assisted Analytics, Visualization, Data Profiling | https://auth-log-eda.lovable.app/ |
 | **🌐 What If Index – Predictive Scenario Analytics** | Predictive Analytics, Scenario Modeling, Decision Intelligence, Data Science | https://www.whatifindex.com |
 | **📊 Machine Learning for Stock Market Signals** | Machine Learning, Financial Data Analysis, Predictive Modeling, Market Signals      | https://app.base44.com/apps/69a92720eab51730c9986a05/editor/preview |
+| **💪 Fitness Tracking** | Machine Learning, Data Analysis, Predictive Modeling, AI Signals, Statistical Modeling      | https://claude.ai/public/artifacts/2f2922ac-c0a2-4998-a0cd-e7cddef7fe03 |
 ---
 ## 🛠 Technical Skills
 
