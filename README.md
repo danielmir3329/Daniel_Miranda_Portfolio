@@ -9,25 +9,10 @@
 - 💼 Digital Identity Administrator  
 - 🏦 Experience in financial services & digital banking environments  
 - 🧠 Focused on authentication risk modeling, anomaly detection, and digital containment strategy  
-- 📊 Builder of structured, reproducible analytics systems  
-
+- 📊 Builder of structured, reproducible analytics systems
+  
 ---
-## 📂 Python Projects 
-- Data Analyst AI Agent
-  https://github.com/danielmir3329/Data-Analyst-AI-Agent
-- Intelligent Transaction Risk Detection Using Machine Learning
-  [https://github.com/danielmir3329/Advanced-Fraud-Modeling](https://github.com/danielmir3329/Advanced-Fraud-Modeling-Project)
-- Fraud Detection Model (ML + Streamlit) https://github.com/danielmir3329/Fraud-Detection-/tree/main
-- Housing Price Prediction / Linear Regression https://github.com/danielmir3329/Housing-Price-Prediction-Using-Linear-Regression/tree/main
-- Transforming a RAG pipeline into an AI Agent https://github.com/danielmir3329/Transforming-a-RAG-pipeline-into-an-AI-Agent
-- Designing a Universal LLM Agent Loop with Tool Integration https://github.com/danielmir3329/Designing-a-Universal-LLM-Agent-Loop-with-Tool-Integration
-
----
-title: "AI & Data Science Portfolio"
-output: github_document
----
-
-## AI Engineering & Data Science Projects
+## AI Engineering, Data Analytics, and Data Science Projects
 
 | Project | Tech Stack | Repository |
 |--------|------------|------------|
@@ -37,6 +22,7 @@ output: github_document
 | **Housing Price Prediction / Linear Regression** | Python, Linear Regression, Pandas, Predictive Modeling | https://github.com/danielmir3329/Housing-Price-Prediction-Using-Linear-Regression/tree/main |
 | **Transforming a RAG Pipeline into an AI Agent** | Python, RAG, LLM Agents, Vector Search, Retrieval Systems | https://github.com/danielmir3329/Transforming-a-RAG-pipeline-into-an-AI-Agent |
 | **Designing a Universal LLM Agent Loop with Tool Integration** | Python, LLM Agents, Tool Calling, Multi-Provider AI Architecture | https://github.com/danielmir3329/Designing-a-Universal-LLM-Agent-Loop-with-Tool-Integration |
+
 ---
 ## 📂 R Projects  
 - Corporate Bankruptcy Analysis and Clustering Using R https://github.com/danielmir3329/Corporate-Bankruptcy-Analysis-and-Clustering-Using-R
