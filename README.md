@@ -22,7 +22,7 @@
 | **Housing Price Prediction / Linear Regression** | Python, Linear Regression, Pandas, Predictive Modeling | https://github.com/danielmir3329/Housing-Price-Prediction-Using-Linear-Regression/tree/main |
 | **Transforming a RAG Pipeline into an AI Agent** | Python, RAG, LLM Agents, Vector Search, Retrieval Systems | https://github.com/danielmir3329/Transforming-a-RAG-pipeline-into-an-AI-Agent |
 | **Designing a Universal LLM Agent Loop with Tool Integration** | Python, LLM Agents, Tool Calling, Multi-Provider AI Architecture | https://github.com/danielmir3329/Designing-a-Universal-LLM-Agent-Loop-with-Tool-Integration |
-
+| **Advanced Fraud Modeling** | Python, Regression, Data Processing, Random Forest, K-means | [https://github.com/danielmir3329/Designing-a-Universal-LLM-Agent-Loop-with-Tool-Integration](https://github.com/danielmir3329/Intelligent-Transaction-Risk-Detection) |
 ---
 ## 📂 R Projects  
 - Corporate Bankruptcy Analysis and Clustering Using R https://github.com/danielmir3329/Corporate-Bankruptcy-Analysis-and-Clustering-Using-R
