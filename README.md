@@ -27,12 +27,11 @@
 | **Ourlier Detection Model** | Python, K-means, Isolation Forest, One-Class SV, DBSCAN | https://github.com/danielmir3329/Outlier-Detection-Model/tree/main |
 
 ---
-## 📂 R Projects  
-- Corporate Bankruptcy Analysis and Clustering Using R https://github.com/danielmir3329/Corporate-Bankruptcy-Analysis-and-Clustering-Using-R
+## 📂 R Projects 
+| Project | Tech Stack | Repository |
+|--------|------------|------------|
+| **Corporate Bankruptcy Analysis and Clustering Using R** | R , EDA , K-means, Data Analysis | https://github.com/danielmir3329/Corporate-Bankruptcy-Analysis-and-Clustering-Using-R |  
   
----
-## 🔬 Research  
-- Comprehensive EDA on U.S. Bankruptcy Risk Indicators  [Comprehensive EDA on U.S. Bankruptcy Risk Indicators .pdf](https://github.com/user-attachments/files/25657970/Comprehensive.EDA.on.U.S.Bankruptcy.Risk.Indicators.pdf)
 ---
 ## AI Applications & Intelligent Platforms
 
@@ -43,6 +42,10 @@
 | **📊 AI EDA Assistant – AI Dashboard** | Exploratory Data Analysis, AI-Assisted Analytics, Visualization, Data Profiling | https://auth-log-eda.lovable.app/ |
 | **🌐 What If Index – Predictive Scenario Analytics** | Predictive Analytics, Scenario Modeling, Decision Intelligence, Data Science | https://www.whatifindex.com |
 | **📊 Machine Learning for Stock Market Signals** | Machine Learning, Financial Data Analysis, Predictive Modeling, Market Signals      | https://app.base44.com/apps/69a92720eab51730c9986a05/editor/preview |
+---
+## 🔬 Research  
+- Comprehensive EDA on U.S. Bankruptcy Risk Indicators  [Comprehensive EDA on U.S. Bankruptcy Risk Indicators .pdf](https://github.com/user-attachments/files/25657970/Comprehensive.EDA.on.U.S.Bankruptcy.Risk.Indicators.pdf)
+
 ---
 ## 🛠 Technical Skills
 
