@@ -23,7 +23,7 @@
 | **Transforming a RAG Pipeline into an AI Agent** | Python, RAG, LLM Agents, Vector Search, Retrieval Systems | https://github.com/danielmir3329/Transforming-a-RAG-pipeline-into-an-AI-Agent |
 | **Designing a Universal LLM Agent Loop with Tool Integration** | Python, LLM Agents, Tool Calling, Multi-Provider AI Architecture | https://github.com/danielmir3329/Designing-a-Universal-LLM-Agent-Loop-with-Tool-Integration |
 | **Advanced Fraud Modeling** | Python, Regression, Data Processing, Random Forest, K-means | https://github.com/danielmir3329/Intelligent-Transaction-Risk-Detection |
-| **ML Customer Segmentation using Kmeans** | Python, K-means, Data Processing, Data Cleaning | https://github.com/danielmir3329/Customer-Segmentation-Using-ML-with-K-means |
+| **ML Customer Segmentation using K-means** | Python, K-means, Data Processing, Data Cleaning | https://github.com/danielmir3329/Customer-Segmentation-Using-ML-with-K-means |
 
 ---
 ## 📂 R Projects  
