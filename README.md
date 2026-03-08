@@ -24,6 +24,7 @@
 | **Designing a Universal LLM Agent Loop with Tool Integration** | Python, LLM Agents, Tool Calling, Multi-Provider AI Architecture | https://github.com/danielmir3329/Designing-a-Universal-LLM-Agent-Loop-with-Tool-Integration |
 | **Advanced Fraud Modeling** | Python, Regression, Data Processing, Random Forest, K-means | https://github.com/danielmir3329/Intelligent-Transaction-Risk-Detection |
 | **ML Customer Segmentation using K-means** | Python, K-means, Data Processing, Data Cleaning | https://github.com/danielmir3329/Customer-Segmentation-Using-ML-with-K-means |
+| **Ourlier Detection Model** | Python, K-means, Isolation Forest, One-Class SV, DBSCAN | https://github.com/danielmir3329/Outlier-Detection-Model/tree/main |
 
 ---
 ## 📂 R Projects  
