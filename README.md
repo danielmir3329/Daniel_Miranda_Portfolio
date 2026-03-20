@@ -26,7 +26,7 @@
 | **ML Customer Segmentation using K-means** | Python, K-means, Data Processing, Data Cleaning | https://github.com/danielmir3329/Customer-Segmentation-Using-ML-with-K-means |
 | **Ourlier Detection Model** | Python, K-means, Isolation Forest, One-Class SV, DBSCAN | https://github.com/danielmir3329/Outlier-Detection-Model/tree/main |
 | **Customer Shopping Behavior - Exploratory Data Analysis (EDA)** | Python, EDA, Data Exploration, Data Visualization | https://github.com/danielmir3329/Customer-Shopping-Behavior-EDA |
-  
+| **Netflix User Behavior EDA and Random Forest** | Random Forest, EDA, Data Exploration, Data Visualization | https://github.com/danielmir3329/Customer-Shopping-Behavior-EDA |
 ---
 ## 📂 R Projects 
 | Project | Tech Stack | Repository |
