@@ -27,7 +27,7 @@
 | **Ourlier Detection Model** | Python, K-means, Isolation Forest, One-Class SV, DBSCAN | https://github.com/danielmir3329/Outlier-Detection-Model/tree/main |
 | **Customer Shopping Behavior - Exploratory Data Analysis (EDA)** | Python, EDA, Data Exploration, Data Visualization | https://github.com/danielmir3329/Customer-Shopping-Behavior-EDA |
 | **Netflix User Behavior EDA and Random Forest** | Random Forest, EDA, Data Exploration, Data Visualization | https://github.com/danielmir3329/Netflix-User-Behavior-EDA-and-Random-Forest/tree/main|
-| **Evaluating Regression and Classifier Metrics (Iris Dataset)** | Regression, Classifiers, Data Exploration, Estimators | [https://github.com/danielmir3329/Netflix-User-Behavior-EDA-and-Random-Forest/tree/main](https://github.com/danielmir3329/valuating-Regression-and-Classifier-Metrics-Iris-Dataset/tree/main) |
+| **Evaluating Regression and Classifier Metrics (Iris Dataset)** | Regression, Classifiers, Data Exploration, Estimators | https://github.com/danielmir3329/valuating-Regression-and-Classifier-Metrics-Iris-Dataset/tree/main |
 ---
 ## 📂 R Projects 
 | Project | Tech Stack | Repository |
