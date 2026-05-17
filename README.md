@@ -24,7 +24,7 @@
 | **Designing a Universal LLM Agent Loop with Tool Integration** | Python, LLM Agents, Tool Calling, Multi-Provider AI Architecture | https://github.com/danielmir3329/Designing-a-Universal-LLM-Agent-Loop-with-Tool-Integration |
 | **Advanced Fraud Modeling** | Python, Regression, Data Processing, Random Forest, K-means | https://github.com/danielmir3329/Intelligent-Transaction-Risk-Detection |
 | **ML Customer Segmentation using K-means** | Python, K-means, Data Processing, Data Cleaning | https://github.com/danielmir3329/Customer-Segmentation-Using-ML-with-K-means |
-| **Ourlier Detection Model** | Python, K-means, Isolation Forest, One-Class SV, DBSCAN | https://github.com/danielmir3329/Outlier-Detection-Model/tree/main |
+| **Outlier Detection Model** | Python, K-means, Isolation Forest, One-Class SV, DBSCAN | https://github.com/danielmir3329/Outlier-Detection-Model/tree/main |
 | **Customer Shopping Behavior - Exploratory Data Analysis (EDA)** | Python, EDA, Data Exploration, Data Visualization | https://github.com/danielmir3329/Customer-Shopping-Behavior-EDA |
 | **Netflix User Behavior EDA and Random Forest** | Random Forest, EDA, Data Exploration, Data Visualization | https://github.com/danielmir3329/Netflix-User-Behavior-EDA-and-Random-Forest/tree/main|
 | **Evaluating Regression and Classifier Metrics (Iris Dataset)** | Regression, Classifiers, Data Exploration, Estimators | https://github.com/danielmir3329/Evaluating-Regression-and-Classifier-Metrics-Iris-Dataset/tree/main |
