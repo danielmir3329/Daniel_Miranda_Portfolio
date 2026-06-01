@@ -29,8 +29,8 @@
 | **Netflix User Behavior EDA and Random Forest** | Random Forest, EDA, Data Exploration, Data Visualization | https://github.com/danielmir3329/Netflix-User-Behavior-EDA-and-Random-Forest/tree/main|
 | **Evaluating Regression and Classifier Metrics (Iris Dataset)** | Regression, Classifiers, Data Exploration, Estimators | https://github.com/danielmir3329/Evaluating-Regression-and-Classifier-Metrics-Iris-Dataset/tree/main |
 | **Abalone Dataset Multiple Linear Regression** | Multiple Linear Regression, Data Exploration, scikit-learn |  |
-| **Abalone Dataset Multiple Ridge Regression (L2)** | Ridge Regression, Data Exploration, scikit-learn |  |
-| **Abalone Dataset Multiple Lasso Regression (L1)** | Lasso Regression, Data Exploration, scikit-learn |  |
+| **Abalone Dataset Ridge Regression (L2)** | Ridge Regression, Data Exploration, scikit-learn |  |
+| **Abalone Dataset Lasso Regression (L1)** | Lasso Regression, Data Exploration, scikit-learn |  |
 
 ---
 ## 📂 R Projects 
