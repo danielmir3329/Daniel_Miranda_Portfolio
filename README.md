@@ -31,7 +31,7 @@
 | **Abalone Dataset Multiple Linear Regression** | Multiple Linear Regression, Data Exploration, scikit-learn | https://github.com/danielmir3329/Abalone-Dataset-Multiple-Linear-Regression |
 | **Abalone Dataset Ridge Regression (L2)** | Ridge Regression, Data Exploration, scikit-learn | https://github.com/danielmir3329/Abalone-Dataset-Ridge-Regression |
 | **Abalone Dataset Lasso Regression (L1)** | Lasso Regression, Data Exploration, scikit-learn | https://github.com/danielmir3329/Abalone-Dataset-Lasso-Regression |
-| **Abalone Dataset Polynomial Ridge Regression (L2)** | Polynomial Regression, Non-Linear Regression | https://github.com/danielmir3329/Abalone-Dataset-Ridge-Regression|
+| **Abalone Dataset Polynomial Ridge Regression (L2)** | Polynomial Regression, Non-Linear Regression | https://github.com/danielmir3329/Abalone-Dataset-Polynomial-Ridge-Regression-L2-|
 | **Abalone Dataset Generalized Additive Model** | GAM, Data Exploration, Non-Linear Regression | https://github.com/danielmir3329/Generalized-Additive-Model-Abalone-Dataset |
 
 ---
