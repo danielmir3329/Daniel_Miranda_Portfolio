@@ -28,9 +28,9 @@
 | **Customer Shopping Behavior - Exploratory Data Analysis (EDA)** | Python, EDA, Data Exploration, Data Visualization | https://github.com/danielmir3329/Customer-Shopping-Behavior-EDA |
 | **Netflix User Behavior EDA and Random Forest** | Random Forest, EDA, Data Exploration, Data Visualization | https://github.com/danielmir3329/Netflix-User-Behavior-EDA-and-Random-Forest/tree/main|
 | **Evaluating Regression and Classifier Metrics (Iris Dataset)** | Regression, Classifiers, Data Exploration, Estimators | https://github.com/danielmir3329/Evaluating-Regression-and-Classifier-Metrics-Iris-Dataset/tree/main |
-| **Abalone Dataset Multiple Linear Regression** | Multiple Linear Regression, Data Exploration, scikit-learn |  |
-| **Abalone Dataset Ridge Regression (L2)** | Ridge Regression, Data Exploration, scikit-learn |  |
-| **Abalone Dataset Lasso Regression (L1)** | Lasso Regression, Data Exploration, scikit-learn |  |
+| **Abalone Dataset Multiple Linear Regression** | Multiple Linear Regression, Data Exploration, scikit-learn | https://github.com/danielmir3329/Abalone-Dataset-Multiple-Linear-Regression |
+| **Abalone Dataset Ridge Regression (L2)** | Ridge Regression, Data Exploration, scikit-learn | https://github.com/danielmir3329/Abalone-Dataset-Ridge-Regression |
+| **Abalone Dataset Lasso Regression (L1)** | Lasso Regression, Data Exploration, scikit-learn | https://github.com/danielmir3329/Abalone-Dataset-Lasso-Regression |
 
 ---
 ## 📂 R Projects 
